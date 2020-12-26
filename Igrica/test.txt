@@ -1,0 +1,11 @@
+1) pomeranje levo desno i skakanje     --> 100% tacno   -> 100 MB
+
+1') kreiranje jedne prepreke                            -> 100 MB 2KB
+
+2) postavljanje prepreka               --> radi         -> 150
+                                             ^
+                                             |  
+3) kretanje prepreka                   --> bug          -> 200
+4) kraj igre nakon udaranje u prepreku
+...
+100) nesto super cool 
