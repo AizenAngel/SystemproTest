@@ -60,3 +60,7 @@ function pomeranje(e){
         brzinaX += 10;
     }
 }
+
+function nesto_cool(){
+    console.log("Cool feature");
+}
